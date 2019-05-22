@@ -1,0 +1,9 @@
+load data from matlab code
+
+extract q scale, time scale and experimental values from this file
+
+sine Fourier transform from q to r scale
+
+plot colormap
+
+add title, x- and y-label
