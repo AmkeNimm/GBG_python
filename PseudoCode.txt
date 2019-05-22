@@ -1,9 +1,16 @@
-load data from matlab code
+import numpy, matplotlib
+
+load data (use pandas, use tab delimited format)
 
 extract q scale, time scale and experimental values from this file
 
 sine Fourier transform from q to r scale
+	define as function
+	perform functions on dataset (for each time point)
 
 plot colormap
+	define colours
+	change range if necessary
+
 
 add title, x- and y-label
