@@ -6,9 +6,9 @@ Input file is a matlab file, containing q ('q'), delay time ('Delay') and the sc
 Data file is defined by filepath and filename. Example file is found in this directory.
 
 -Input
-    -H20_long.mat: example experimental data
-                  - q: q-range
-                  - Delay: timepoints
-                  - AllTTDelay: difference scattering data
+    - H20_long.mat: example experimental data
+				- q: q-range
+				- Delay: timepoints
+				- AllTTDelay: difference scattering data
              
          
